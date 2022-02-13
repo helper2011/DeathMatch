@@ -1,0 +1,45 @@
+"Phrases"
+{
+	"Main menu title"
+	{
+		"ru"		"DeathMatch\n "
+		"en"		"DeathMatch\n "
+	}
+	"Pistol menu title"
+	{
+		"ru"		"Пистолеты"
+		"en"		"Secondary weapons"
+	}
+	"Gun menu title"
+	{
+		"ru"		"Основное оружие"
+		"en"		"Primary weapons"
+	}
+	"New weapons"
+	{
+		"ru"		"Новое оружие"
+		"en"		"New weapons"
+		
+	}
+	"Prev weapons"
+	{
+		"ru"		"Предыдущее оружие"
+		"en"		"Previous weapons"
+	}
+	"Only last weapons"
+	{
+		"ru"		"Только предыдущее оружие"
+		"en"		"Only previous weapons"
+	}
+	
+	"Random weapons"
+	{
+		"ru"		"Случайное оружие"
+		"en"		"Random weapons"
+	}
+	"Only random weapons"
+	{
+		"ru"		"Только случайное оружие"
+		"en"		"Only random weapons"
+	}
+}
